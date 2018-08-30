@@ -1,15 +1,14 @@
 # Cours 1 - 2018/08/30
 
-
 ## Questions de préparation
 
 * ### Qu’est ce qui différencie les technologies dites du deuxième âge de la machine des technologies dites du premier âge de la machine?
 
     #### Notes de lecture  
-    
-        The first machine age augmented our muscles; the second, our minds
 
     #### Cours
+
+
 
 * ### En quoi consiste une innovation numérique (“digital innovation”)?
 
@@ -87,13 +86,15 @@
 
     #### Cours
 
+    
+
  * ### Comment le concept de maturité numérique est-il défini dans le texte de Kane et al., et comment est-il opérationnalisé (c.à.d mesuré)?  
 
     #### Notes de lecture
     
     ##### Strategy, not Technology, Drives Digital Transformation
     
-    Définition :
+    Définition
 
         maturing digital businesses are focused on integrating digital technologies, such as social, mobile, analytics and cloud, in the service of transforming how their businesses work
 
@@ -102,10 +103,44 @@
         a clear digital strategy com bined with a culture and leadership poised to drive the transformation.
 
         Digital maturity is the product of strategy, culture and leadership.
-
-    Mesure :
-
-        trololo
       
         
     #### Cours
+ 
+
+## La révolution numérique
+
+### L'âge de la machine et de l'information 
+
+* Première révolution industrielle (1760's)
+
+    * Propulsé par le charbon
+
+* Deuxième révolution industrielle (1860's)
+
+    * Nouvelle sources d'énergie (gaz, électricité...)
+    * Industrie de masse
+    * Automatisation 
+
+* Troisième révolution industrielle (1960's)
+
+    * Circuit intégré (50-60) et ordinateur
+    * Technologie de l'information 
+
+* Quatrième révolution industrielle (2010-...)
+
+    * Développement ultra rapide de nouvelles innovations
+    * Robotique, automatisation, assistant personnels, ... 
+    * Facteurs importants : 
+        * Vélocité
+        * Profondeur et portée 
+        * Impact systémiques 
+
+
+## Maturité numérique  
+
+RELIRE KANE ET PENSER AUX DIFFÉRENCES ENTRE 
+* Facteur clé de succès
+* Impacts (résultats)
+* Moteurs (facteurs qui influence)
+* Nature (proriétés)
