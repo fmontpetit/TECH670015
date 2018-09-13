@@ -60,10 +60,12 @@ technological shift in which software companies are poised to take over large sw
 
     #### Cours
 
- * ### Quel est l’objectif de la recherche rapportée dans Zervas et al. (2014)? Qu’essaient-ils de comprendre et de mesurer? Qu’ont-ils trouvé dans leur recherche? 
+ * ### Quel est l’objectif de la recherche rapportée dans Zervas et al. (2014)? Qu’essaient-ils de comprendre et  de mesurer? Qu’ont-ils trouvé dans leur recherche? 
 
     #### Notes de lecture
     
+    to what extent are Airbnb stays serving as substitutes for
+hotel stays, and what is the impact on the bottom line of a↵ected hotels?
         
     #### Cours
  
