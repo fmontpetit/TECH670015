@@ -44,6 +44,14 @@ technological shift in which software companies are poised to take over large sw
 
     C'est un processus, et non nécessairement un résultat 
 
+    Disruptive "to a certain market"
+
+    3 erreur : 
+
+    * focus sur le produit plutot que le processus
+    * focus sur le succes quand il n'est pas intrinsèque à la définition
+    * se concentrer en général plutôt qu'un segment (distruptive to what ?)
+
  * ### Qui est Jean-Marie DRU? Pourquoi est-il concerné par l’article de Christensen?  Quel est son point de vue et son argument sur la question de la disruption?  
 
     #### Notes de lecture
@@ -60,22 +68,24 @@ technological shift in which software companies are poised to take over large sw
 
     #### Cours
 
- * ### Quel est l’objectif de la recherche rapportée dans Zervas et al. (2014)? Qu’essaient-ils de comprendre et  de mesurer? Qu’ont-ils trouvé dans leur recherche? 
+ * ### Quel est l’objectif de la recherche rapportée dans Zervas et al. (2014)? Qu’essaient-ils de comprendre et de mesurer? Qu’ont-ils trouvé dans leur recherche? 
 
     #### Notes de lecture
     
-    to what extent are Airbnb stays serving as substitutes for
-hotel stays, and what is the impact on the bottom line of a↵ected hotels?
         
     #### Cours
 
+    Bas de gamme qui est le plue affecté. 
 
-## La disruption (rupture)
 
 ## L'écononomie du partage 
 
 
+
+
 ## Divers 
+
+NATURE : Définition, mettre de l'avant les définition de certains auteurs. 
 
 
  
