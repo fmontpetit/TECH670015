@@ -18,9 +18,9 @@ Netscape, one of the first browser companies.
     My own theory is that we are in the middle of a dramatic and broad
 technological shift in which software companies are poised to take over large swathes of the economy.
 
-
     #### Cours
 
+    Toutes les compagnies vont devenir des software companies qui vont offrir des software products 
 
 * ### Qu’est ce qu’une innovation disruptive (disruptive innovation)? Expliquer en quoi consiste la théorie de la disruption de Christensen. Quel est le but de son article de 2015?
 
@@ -42,7 +42,7 @@ technological shift in which software companies are poised to take over large sw
 
     #### Cours
 
-    
+    C'est un processus, et non nécessairement un résultat 
 
  * ### Qui est Jean-Marie DRU? Pourquoi est-il concerné par l’article de Christensen?  Quel est son point de vue et son argument sur la question de la disruption?  
 
@@ -68,4 +68,14 @@ technological shift in which software companies are poised to take over large sw
 hotel stays, and what is the impact on the bottom line of a↵ected hotels?
         
     #### Cours
+
+
+## La disruption (rupture)
+
+## L'écononomie du partage 
+
+
+## Divers 
+
+
  
